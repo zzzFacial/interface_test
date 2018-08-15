@@ -12,3 +12,6 @@
 4.testCase用保存接口的测试用例
 5.config.ini配置信息
 6.readConfig.py用于读取config文件里面的内容
+
+注意事项：
+本项目基于Python3.6开发，运行时遇到安装以下3个库：xlrd,xlutils,requests
