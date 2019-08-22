@@ -14,4 +14,4 @@
 6.readConfig.py用于读取config文件里面的内容
 
 注意事项：
-本项目基于Python3.6开发，运行时遇到安装以下3个库：xlrd,xlutils,requests
+本项目基于Python3.6开发，运行时需要安装以下3个库：xlrd,xlutils,requests
